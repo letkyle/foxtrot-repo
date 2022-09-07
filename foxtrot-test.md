@@ -15,6 +15,7 @@
 - added some content 
 - get your personal authentication token from github 
 - pushed local to remote 
+- steps in pushing to github
 - get status
 -git add <file-name>
 -git commit -m "meaningful message here (patch note) so others and you know what this commit acutally did"

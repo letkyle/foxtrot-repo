@@ -1,6 +1,6 @@
 # Hello World :)
 
-# first github extravaganza!
+# first github file!
 
 # git process
 
@@ -17,7 +17,7 @@
 - pushed local to remote 
 - steps in pushing to github
 - get status
--git add <file-name>
--git commit -m "meaningful message here (patch note) so others and you know what this commit acutally did"
+- git add <file-name>
+- git commit -m "meaningful message here (patch note) so others and you know what this commit acutally did"
 - git push origin <branch-name>
 
